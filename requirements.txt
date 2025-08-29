@@ -1,0 +1,12 @@
+mss>=9.0.1
+numpy>=1.24.0
+Pillow>=10.0.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.11
+google-generativeai>=0.3.0
+deepgram-sdk>=3.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+opencv-python>=4.8.0
